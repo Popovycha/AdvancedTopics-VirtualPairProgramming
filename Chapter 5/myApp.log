@@ -1,0 +1,12 @@
+2021-03-08 14:38:28,369 ERROR Main [main] Error event 
+2021-03-08 14:38:28,372 FATAL AnotherCla [main] fatal event 
+2021-03-08 14:38:28,373 INFO AnotherCla [main] info event 
+2021-03-08 14:38:41,608 ERROR Main [main] Error event 
+2021-03-08 14:38:41,610 FATAL AnotherCla [main] fatal event 
+2021-03-08 14:38:41,611 INFO AnotherCla [main] info event 
+2021-03-08 14:42:38,087 ERROR Main [main] Error event 
+2021-03-08 14:42:38,089 INFO Main [main] info event 
+2021-03-08 14:42:38,089 FATAL AnotherCla [main] fatal event 
+2021-03-08 14:42:38,090 INFO AnotherCla [main] info event 
+2021-03-08 14:45:12,420 FATAL AnotherCla [main] fatal event 
+2021-03-08 14:45:12,420 INFO AnotherCla [main] info event 
